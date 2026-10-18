@@ -1,5 +1,11 @@
 # udflib
 
+> [!WARNING]
+> **Bu proje resmî bir UYAP veya Adalet Bakanlığı uygulaması değildir.** Herhangi bir kamu kurumuyla resmî bir bağlantısı bulunmamaktadır.
+
+> [!NOTE]
+> Bu projenin geliştirilmesinde yapay zekâ araçlarından yararlanılmıştır.
+
 UYAP `.udf` dosyalarını okuyan, elle yazılmış Rust kütüphanesi. Yalnızca **veri sağlar**
 (belge modeli, özellikler, imza baytları); çizim/yerleşim yapmaz. Grafik uygulaması: `../udf-okuyucu`.
 
